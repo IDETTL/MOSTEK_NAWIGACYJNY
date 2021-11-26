@@ -13,7 +13,19 @@ Na pulpicie kontrolnym znajdują się:
 *	monitoring wizyjny z możliwością rejestracji obrazu i dźwięku
 *	moduł rozgłośni okrętowej i telefon.
 
-## Interface symulatora
+## Stanowisko Instruktora
+Stanowisko instruktora jest kluczowym elementem symulatora. Zapewnia instruktorowi, dzięki istniejącym urządzeniom i oprogramowaniu, pełną kontrolę nad wszystkimi systemami symulatora oraz tworzenie, modyfikację i odtwarzanie scenariuszy ćwiczeń. Instruktor ma do dyspozycji trzy 55 calowe monitory o rozdzielczości 3840 x 2160. Umożliwiają one prezentację modułu instruktora, kanału wizualizacji oraz podgląd oraz nasłuch na żywo sytuacji na poszczególnych mostkach nawigacyjnych poprzez monitoring wizyjny. 
+Stanowisko wyposażone jest również w elementy systemu łączności wewnętrznej (telefon, symulator rozgłośni okrętowej) umożliwiające komunikację pomiędzy poszczególnymi stanowiskami symulatora. 
+
+ 
+## Oprogramowanie Navi-Trainer Instructor 
+#### Program służy do tworzenia scenariuszy ćwiczeń i jest zainstalowany na stanowisku instruktora, do którego podstawowych zadań należy:
+
+*	tworzenie nowych i edycja już istniejących ćwiczeń (scenariuszy) w celu ich kolejnego wykorzystania;
+*	selekcja dostępnych ćwiczeń i wygrywanie ich na stanowiska (mostki) treningowe oraz kontrolowanie ćwiczeń podczas ich przebiegu;
+*	bieżąca ingerencja poprzez wprowadzanie zmian oraz kontrolę dowolnego obiektu znajdującego się w odtwarzanym scenariuszu; 
+*	sprawdzanie i analizę rezultatów ćwiczeń po ich zakończeniu.
+
 
 ## Modele jednostek
 
