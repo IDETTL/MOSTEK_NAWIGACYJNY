@@ -41,14 +41,10 @@ Stanowisko wyposażone jest również w elementy systemu łączności wewnętrzn
 * zbiornikowiec LNG (109623), 
 * kontenerowiec (191000), 
 * statek rzeczno-morski (3510) 
-##### cztery modeli okrętów: 
-* fregata (3600), 
-* okręt logistyczny (3210), 
-* niszczyciel min (503), 
-* okręt patrolowy (1706). 
-* inne okręty załączone na obrazku ...
 
-![okrety](okrety.jpg)
+##### dwanaście modeli okrętów: 
+
+![okrety](okrety.png)
 
 
 Model matematyczny wyszczególnionych jednostek posiada 6-stopni swobody i jest podatny na działanie sił zewnętrznych wywołanych wiatrem, prądem, falowaniem, działanie holownika, innej jednostki, nabrzeża, lin cumowniczych, kotwicy, wpływ płytkowodzia itp. Oddając w sposób bardzo realistyczny jej zachowanie w warunkach rzeczywistych. Do scenariusza można wprowadzić ponad 40 różnego typów jednostek celi, od jachtu po masowiec o wyporności 200 tys. ton, planując im trasę przejścia, z możliwością stałej jej korekty w czasie realizacji ćwiczenia. W środowisku symulatora prowadzenie samodzielnej nawigacji możliwe jest na siedmiu typach jednostek cywilnych oraz czterech jednostkach wojskowych. Każda z tych jednostek posiada własny model matematyczny, dzięki któremu w realistyczny sposób odwzorowane są jej zdolności manewrowe oraz skutki interakcji z nabrzeżem, dnem oraz kadłubem innej jednostki. 
