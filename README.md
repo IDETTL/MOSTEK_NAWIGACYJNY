@@ -13,10 +13,14 @@ Na pulpicie kontrolnym znajdują się:
 *	monitoring wizyjny z możliwością rejestracji obrazu i dźwięku
 *	moduł rozgłośni okrętowej i telefon.
 
+![Sprzet](sprzet1.jpg, sprzet2.jpg)
+
+
 ## Stanowisko Instruktora
 Stanowisko instruktora jest kluczowym elementem symulatora. Zapewnia instruktorowi, dzięki istniejącym urządzeniom i oprogramowaniu, pełną kontrolę nad wszystkimi systemami symulatora oraz tworzenie, modyfikację i odtwarzanie scenariuszy ćwiczeń. Instruktor ma do dyspozycji trzy 55 calowe monitory o rozdzielczości 3840 x 2160. Umożliwiają one prezentację modułu instruktora, kanału wizualizacji oraz podgląd oraz nasłuch na żywo sytuacji na poszczególnych mostkach nawigacyjnych poprzez monitoring wizyjny. 
 Stanowisko wyposażone jest również w elementy systemu łączności wewnętrznej (telefon, symulator rozgłośni okrętowej) umożliwiające komunikację pomiędzy poszczególnymi stanowiskami symulatora. 
 
+![Stanowisko Instruktora](instruktor.jpg)
  
 ## Oprogramowanie Navi-Trainer Instructor 
 #### Program służy do tworzenia scenariuszy ćwiczeń i jest zainstalowany na stanowisku instruktora, do którego podstawowych zadań należy:
@@ -50,6 +54,8 @@ Oprogramowanie symulatora pozwala na korzystanie z dziewięciu akwenów treningo
 Dostępne akweny są rzeczywistymi modelami powierzchni ziemi z elementami architektonicznymi i podwodną topografią.
 
 Kształtowanie warunków pogodowych W tym zakresie istnieje możliwość symulowania różnych pór doby: świt, dzień, zmierzch, noc. Ważną zaletą programu jest łatwość wpływania na warunki hydrometeorologiczne, parametry: prądu, pływu, wiatru, stanu morza, zachmurzenia, widzialności, na całym akwenie treningowym (general condition) lub wybranej (wybranych) jego części (weather zone) z możliwością bieżącej ich zmiany lub zaprogramowania zmian dla wybranych momentów czasowych ćwiczenia.
+
+![Port Gdynia](akwengdynia.png)
 
 
 ## Scenariusze szkoleniowe
